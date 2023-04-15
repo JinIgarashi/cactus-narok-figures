@@ -16,6 +16,10 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ![fig3-5](./fig3-5_fsm_containment_cost.png)
 
+- Figure3-6 The comparison of total annualised costs of mechanical emptying and transporting between public utility (NARWASSCO) and private operator (Wambugu). a) and b) shows the proportion for each major category. The detailed comparison at the sub category are presented at Direct CapEx (c), Indirect CapEx (d), Direct OpEx (e) and Indirect OpEx (f).
+
+![fig3-6](./fig3-6_fsm_e&t_cost.png)
+
 ## License
 
 The source code is MIT License. The figures and texts attached in the repo is under CC By 4.0 License.
