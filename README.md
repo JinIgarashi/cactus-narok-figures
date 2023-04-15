@@ -4,13 +4,17 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ## List of Figures
 
-- Figure 3-3 The proportion of Total Annualised Cost per Household (TACH) for each category of sewer pipes without pumping
+- Figure 3-3 Figure 3-3 The proportion of Total Annualised Cost per Household (TACH) for each category of sewer pipes without pumping. The pie chart on the left side shows the proportion of TACH for each cost category (Direct/Indirect CapEx and Direct/Indirect OpEx), and the bar chart on the right side presents the proportion of breaking down cost items for each category
 
 ![fig3-3](./fig3-3_sewer_comp_cost.png)
 
-- Figure 3-4 The proportion of Total Annualised Cost per Household (TACH) Int$2020 for each category of Limanet wastewater treatment plant in Narok town
+- Figure 3-4 The proportion of Total Annualised Cost per Household (TACH) Int$2020 for each category of Limanet wastewater treatment plant in Narok town. The pie chart on the left side shows the proportion of TACH for each cost category (Direct/Indirect CapEx and Direct/Indirect OpEx), and the bar chart on the right side presents the proportion of breaking down cost items for each category
 
 ![fig3-4](./fig3-4_treatment_comp_cost.png)
+
+- Figure3-5 The plots of Total Annualised Cost per Household (TACH) and Total Annualised Cost per Capita (TACC) in faecal sludge management (FSM) components of infiltrating pit and sealed tank with infiltration (Int$2020). The top half of the box plot shows the TACH (left) and TACC (right) fractions, while the bottom half shows how the TACH (left) and TACC (right) are plotted against the number of households and population served.
+
+![fig3-5](./fig3-5_fsm_containment_cost.png)
 
 ## License
 
