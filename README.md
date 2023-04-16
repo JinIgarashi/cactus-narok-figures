@@ -20,7 +20,7 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ![fig3-6](./fig3-6_fsm_e&t_cost.png)
 
-- Figure3-7 The full lifecycle cost (Int$2020) of the sewage system for the entire sanitation value chain against the improvement of the sewer connectivity. The bar chart illustrates the proportion of the costs of each stage at the sanitation value chain, and the line chart shows the total cost in acordance with the sewer connectivity changes. The diagram starts with the present value on June 2022 and ends with when the connectivity reaches the design capacity of the system (3,500m3 per day). The data table below the chart summarise the Total annualised costs per household (TACH) values for each stage and sewer connectivity.
+- Figure3-7 The full lifecycle cost  (Int$2020) of the sewage system for the entire sanitation value chain against the improvement of the sewer connectivity. The bar chart illustrates the proportion of the costs of each stage at the sanitation value chain, and the line chart shows the total cost in accordance with the sewer connectivity changes. The diagram starts with the present value on June 2022 and ends with when the connectivity reaches the design capacity of the system (3,500m3 per day). The data table below the chart summarise the Total annualised costs per household (TACH) values for each stage and sewer connectivity.
 
 ![fig3-7](./fig3-7_sewer_fulllifecycle_cost.png)
 
