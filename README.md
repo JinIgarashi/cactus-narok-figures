@@ -24,7 +24,7 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ![fig3-7](./fig3-7_sewer_fulllifecycle_cost.png)
 
-- Figure3-8 The full lifecycle cost (Int$2020) of the faecal sludge management (FSM) system accross the sanitation value chain. The bar charts compares the Total Annualised Cost per Household (TACH) for infiltrating pit and septic tank between public utility (NARWASSCO) and private operator (Wambugu). The circle markers show the total costs for each class.
+- Figure3-8 The full lifecycle cost (Int$2020) of the faecal sludge management (FSM) system across the sanitation value chain. The bar charts compare the Total Annualised Cost per Household (TACH) for infiltrating pit and septic tank between public utility (NARWASSCO) and private operator (Wambugu). The circle markers show the total costs for each class.
 
 ![fig3-8](./fig3-8_fsm_fulllifecycle_cost.png)
 
