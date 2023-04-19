@@ -28,7 +28,7 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ![fig3-8](./fig3-8_fsm_fulllifecycle_cost.png)
 
-- Figure4-1 The comparison of full lifecycle costs (Int$ 2020) between the CACTUS database and Narok town as of September 2022. The faecal sludge management (FSM) systems' lifecycle costs are shown in the left side of vertical line, and the sewage systems' cost are presented in the other side. The median values are used to draw the full lifecycle costs for the CACTUS database. The dashed dotted lines express the most expensive cost in Narok town while the dotted lines show the cheapest cost in the city.
+- Figure4-1 The comparison of full lifecycle costs (Int$ 2020) between the CACTUS database and Narok town as of September 2022. The faecal sludge management (FSM) systems' lifecycle costs are shown in the left side of vertical line, and the sewage systems' cost are presented in the other side. The boxplots show the minimum and maximum TACH of Narok town's cost for FSM and sewage.
 
 ![fig4-1](./fig4-1_fulllifecycle_cost_comparison.png)
 
