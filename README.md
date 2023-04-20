@@ -32,6 +32,10 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ![fig4-1](./fig4-1_fulllifecycle_cost_comparison.png)
 
+- The comparison of Total Annualised Cost per Household (TACH) (Int$ 2020) between the CACTUS database and Narok town as of September 2022. The box plots present the range of TACH for each component except Narok town. Star icons are the cost of Narok town for each component. The components on the left side are for the faecal sludge management system, and on the other side are for sewage systems.
+
+![fig4-2](./fig4-2_component_compare.png)
+
 ## License
 
 The source code is MIT License. The figures and texts attached in the repo is under CC By 4.0 License.
