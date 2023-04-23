@@ -6,7 +6,11 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 - Figure3-1 CACTUS Components (Sainati et al., 2020) of wastewater systems and Faecal Sludge Management (FSM) systems which are used in the study at Narok town accross the sanitation value chain.
 
-![fig3-1](./fig3-1.png)
+![fig3-1](./Figure3-1.drawio.svg)
+
+- Figure3-2 Current Shit-flow diagram (SFD) of Narok town assumed from collected data in the project
+
+![fig3-2](./Narok%20town_sfd_graphic.svg)
 
 - Figure 3-3 The proportion of Total Annualised Cost per Household (TACH) for each category of sewer pipes without pumping. The pie chart (a) shows the proportion of TACH for each cost category (Direct/Indirect CapEx and Direct/Indirect OpEx), and the bar chart (b) presents the proportion of breaking down cost items for each category
 
