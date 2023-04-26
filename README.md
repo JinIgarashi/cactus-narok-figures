@@ -4,45 +4,45 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ## List of Figures
 
-- Figure3-1 CACTUS Components (Sainati et al., 2020) of wastewater systems and Faecal Sludge Management (FSM) systems which are used in the study at Narok town accross the sanitation value chain.
+- Figure1 Cost data points collected for Narok Town by CACTUS Component (Sainati et al., 2020) for wastewater and fecal sludge management systems. The numbers in brackets show the number of data points by component.
 
-![fig3-1](./Figure3-1.drawio.svg)
+![fig1](./images/fig1.png)
 
-- Figure3-2 Current Shit-flow diagram (SFD) of Narok town assumed from collected data in the project
+- Figure2 Excreta flows in Narok Town in 2022 derived from interviews and secondary data 
 
-![fig3-2](./Narok%20town_sfd_graphic.svg)
+![fig2](./images/fig2%20narok%20sfd.png)
 
-- Figure 3-3 The proportion of Total Annualised Cost per Household (TACH) for each category of sewer pipes without pumping. The pie chart (a) shows the proportion of TACH for each cost category (Direct/Indirect CapEx and Direct/Indirect OpEx), and the bar chart (b) presents the proportion of breaking down cost items for each category
+- Figure 3 Distribution of cost liability of conventional separate sewers with no pumping in Narok Town expressed in terms of Total Annualised Cost per Household (TACH)
 
-![fig3-3](./fig3-3_sewer_comp_cost.png)
+![fig3](./images/fig3_sewer_comp_cost.png)
 
-- Figure 3-4 The proportion of Total Annualised Cost per Household (TACH) Int$2020 for each category of Limanet wastewater treatment plant in Narok town. The pie chart (a) shows the proportion of TACH for each cost category (Direct/Indirect CapEx and Direct/Indirect OpEx), and the bar chart (b) presents the proportion of breaking down cost items for each category
+- Figure 4 Distribution of cost liability of Limanet Wastewater Treatment Plant in Narok Town expressed in terms of Total Annualised Cost per Household (TACH)
 
-![fig3-4](./fig3-4_treatment_comp_cost.png)
+![fig4](./images/fig4_treatment_comp_cost.png)
 
-- Figure3-5 The plots of Total Annualised Cost per Household (TACH) and Total Annualised Cost per Capita (TACC) in faecal sludge management (FSM) components of infiltrating pit and sealed tank with infiltration (Int$2020). The top half of the box plot shows the TACH (a) and TACC (b) fractions, while the bottom half shows how the TACH (c) and TACC (d) are plotted against the number of households and population served.
+- Figure 5 Total annualised cost of mechanical emptying and transport for two providers in Narok Town, NARWASSCO (publicly owned) and Wambugu (privately owned). Plates a) and b) show cost breakdown for each major cost category. Cost breakdowns by subcategory are shown in plates (c) Direct CAPEX, (d) Indirect CAPEX, (e), Direct OPEX and (f) Indirect OPEX
 
-![fig3-5](./fig3-5_fsm_containment_cost.png)
+![fig5](./images/fig5_fsm_e%26t_cost.png)
 
-- Figure3-6 The comparison of total annualised costs of mechanical emptying and transporting between public utility (NARWASSCO) and private operator (Wambugu). a) and b) shows the proportion for each major category. The detailed comparison at the sub category are presented at Direct CapEx (c), Indirect CapEx (d), Direct OpEx (e) and Indirect OpEx (f).
+- Figure 6 The full lifecycle cost (Int$2020) of the faecal sludge management (FSM) system across the sanitation value chain. The bar charts compare the Total Annualised Cost per Household (TACH) for infiltrating pit and septic tank between public utility (NARWASSCO) and private operator (Wambugu). The circle markers show the total costs for each class.
 
-![fig3-6](./fig3-6_fsm_e&t_cost.png)
+![fig6](./images/fig6_fsm_fulllifecycle_cost.png)
 
-- Figure3-7 The full lifecycle cost  (Int$2020) of the sewage system for the entire sanitation value chain against the improvement of the sewer connectivity. The bar chart illustrates the proportion of the costs of each stage at the sanitation value chain, and the line chart shows the total cost in accordance with the sewer connectivity changes. The diagram starts with the present value in June 2022 and ends with when the connectivity reaches the design capacity of the system (3,500m3 per day). The data table below the chart summarise the Total annualised costs per household (TACH) values for each stage and sewer connectivity.
+- Figure 7 The whole-system TACH (Int$ (2020)) of sewerage for Narok Town plotted against sewer connectivity. The bar chart illustrates the proportion of the costs of each stage at the sanitation value chain, and the line chart shows the total cost in accordance with the sewer connectivity changes. The data table shows TACH values by component in each case.
 
-![fig3-7](./fig3-7_sewer_fulllifecycle_cost.png)
+![fig7](./images/fig7_sewer_fulllifecycle_cost.png)
 
-- Figure3-8 The full lifecycle cost (Int$2020) of the faecal sludge management (FSM) system across the sanitation value chain. The bar charts compare the Total Annualised Cost per Household (TACH) for infiltrating pit and septic tank between public utility (NARWASSCO) and private operator (Wambugu). The circle markers show the total costs for each class.
+- Figure 8 Total Annualised Cost of onsite sanitation containments in Narok Town (Int$ 2020) (a) per household (TACH) (b) per capita (TACC), and the trendline of toilet cost against the number of households served (c) and the number of people served.  
 
-![fig3-8](./fig3-8_fsm_fulllifecycle_cost.png)
+![fig8](./images/fig8_fsm_containment_cost.png)
 
-- Figure4-1 The comparison of full lifecycle costs (Int$ 2020) between the CACTUS database and Narok town as of September 2022. The faecal sludge management (FSM) systems' lifecycle costs are shown in the left side of vertical line, and the sewage systems' cost are presented in the other side. The boxplots show the minimum and maximum TACH of Narok town's cost for FSM and sewage.
+- Figure 9 Total Annualised Cost per Household (TACH) Int$ (2020) by component for Narok town (mean values shown as star icons), compared to the CACTUS database (full data range shown as boxplots) in September 2022.
 
-![fig4-1](./fig4-1_fulllifecycle_cost_comparison.png)
+![fig9](./images/fig9_component_compare.png)
 
-- Figure4-2 The comparison of Total Annualised Cost per Household (TACH) (Int$ 2020) for each component between the CACTUS database (boxplots) and Narok town (star icons) as of September 2022. The components on the left side are for the faecal sludge management system, and on the other side are for sewage systems.
+- Figure 10 Total Annualised Cost per Household (TACH) (Int$ (2020)) for whole sanitation systems for Narok town (box plots) compared to the CACTUS database (bars) in September 2022  
 
-![fig4-2](./fig4-2_component_compare.png)
+![fig10](./images/fig10_fulllifecycle_cost_comparison.png)
 
 ## License
 
