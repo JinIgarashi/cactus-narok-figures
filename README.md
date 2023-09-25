@@ -4,40 +4,44 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ## Figures
 
-- Figure 1 Sanitation components used in the CACTUS database
-![fig1](./images/Figure1%20cactus-components.png)
+- Figure 1
+![fig1](./images/Figure1%20fulllifecycle_cost_comparison_global.pdf.png)
 
-- Figure 3 Total annualised cost liability (Int$2020) for containers and emptying/ transport in urban sanitation systems with no sewerage – from data collected by the CACTUS Project as of June2023.
+- Figure 2
 
-![fig3](./images/Figure3%20fsm_component_compare.pdf.png)
+![fig2](./images/Figure2%20fsm_component_compare.pdf.png)
 
-- Figure 4 Total annualised cost liability (Int$2020) modelled from mean data for non- sewered urban sanitation systems broken down by component from data collected by the CACTUS Project as of June2023.
+- Figure 3
 
-![fig4](./images/Figure4%20fulllifecycle%20cost%20global.pdf.png)
+![fig3](./images/Figure3%20et_tach_against_peopleserved.pdf.png)
 
-- Figure 5 Figure 5 Total annualised cost liability (Int$2020) for mechanised emptying and transport services from data collected by the CACTUS Project as of June2023.  Best fit lines by least squares method, after removal of outliers (quantile less than 0.95)
+- Figure 4
 
-![fig5](./images/Figure5%20et_tach_against_peopleserved.pdf.png)
+![fig4](./images/Figure4%20component_compare.pdf.png)
 
-- Figure 6 Total Annualised Cost per Household (TACH) Int$ (2020) by component for Narok town (mean values shown as star icons), compared to the CACTUS database (full data range shown as boxplots) as of June 2022.
+- Figure 5
 
-![fig6](./images/Figure6%20component_compare.pdf.png)
+![fig5](./images/Figure5%20fulllifecycle_cost_comparison.pdf.png)
 
-- Figure 7 Total Annualised Cost per Household (TACH) (Int$ (2020)) for whole sanitation systems for Narok town (box plots) compared to the CACTUS database (bars) as of June 2022.
-
-![fig7](./images/Figure7%20fulllifecycle_cost_comparison%20new.pdf.png)
-
-- Figure 8 The whole-system TACH (Int$ (2020)) of sewerage for Narok Town plotted against sewer connectivity. The bar chart illustrates the proportion of the costs of each stage at the sanitation value chain, and the line chart shows the total cost in accordance with the sewer connectivity changes. The data table shows TACH values by component in each case.
+- Figure 8
 
 ![fig8](./images/Figure8%20sewer_fulllifecycle_cost.pdf.png)
 
-- Figure 9 Distribution of cost liability for sewerage (a and b) and wastewater treatment (c and d) in Narok town Kenya expressed in Total Annualised Cost per Household (TACH) as recorded in the CACTUS data base June2023.
+- Figure S-1
 
-![fig9](./images/Figure9%20serwer_treatment_cost.pdf.png)
+![fig](./images/FigureS-1%20cactus-components.png)
 
-- Figure 10 Total annualised cost of mechanical emptying and transport for two providers in Narok Town, NARWASSCO (publicly owned) and Wambugu (privately owned). Plates a) and b) show cost breakdown for each major cost category. Cost breakdowns by subcategory are shown in plates (c) Direct CAPEX, (d) Indirect CAPEX, (e), Direct OPEX and (f) Indirect OPEX
+- Figure S-3
 
-![fig10](./images/Figure10%20fsm_e%26t_cost.pdf.png)
+![fig](./images/FigureS-3%20fulllifecycle%20cost%20global.pdf.png)
+
+- Figure S-4
+
+![fig](./images/FigureS-4%20serwer_treatment_cost.pdf.png)
+
+- Figure S-5
+
+![fig](./images/FigureS-5%20fsm_e&t_cost.pdf.png)
 
 ## License
 
