@@ -45,7 +45,7 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 - Figure S-6
 
-![fig](./images/FigureS-5%20fsm_e&t_cost.pdf.png)
+![fig](./images/FigureS-6%20fsm_e&t_cost.pdf.png)
 
 ## License
 
