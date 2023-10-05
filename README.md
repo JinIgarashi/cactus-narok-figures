@@ -23,9 +23,9 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ![fig5](./images/Figure5%20fulllifecycle_cost_comparison.pdf.png)
 
-- Figure 8
+- Figure 6
 
-![fig8](./images/Figure8%20sewer_fulllifecycle_cost.pdf.png)
+![fig8](./images/Figure6%20sewer_fulllifecycle_cost.pdf.png)
 
 - Figure S-1
 
@@ -40,6 +40,10 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 ![fig](./images/FigureS-4%20serwer_treatment_cost.pdf.png)
 
 - Figure S-5
+
+![fig](./images/FigureS-5_fsm_containment_cost.pdf.png)
+
+- Figure S-6
 
 ![fig](./images/FigureS-5%20fsm_e&t_cost.pdf.png)
 
