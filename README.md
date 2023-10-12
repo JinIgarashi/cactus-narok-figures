@@ -4,6 +4,9 @@ This repository is to manage figures for the cost paper of urban sanitation syst
 
 ## Figures
 
+- TOC
+![TOC](./images/TOC.pdf.png)
+
 - Figure 1
 ![fig1](./images/Figure1%20fulllifecycle_cost_comparison_global.pdf.png)
 
